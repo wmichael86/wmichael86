@@ -9,7 +9,7 @@ I am learning new things everyday and that drive to continue my training will no
 Happy Hacking!
 
 - ⚡ I am a certified Full Stack Engineer!
-- 🔭 I’m currently working on finishing my portfolio for employers to see my work and continuing my education through EdX computer science courses with NYU. 
+- 🔭 I’m currently working on finishing my portfolio for employers to see my work. 
 - 🌱 I’m currently obatining a micro bachelors to add to my skill  list though NYU edX.
 - 👯 I’m looking to collaborate on new mobile or web applications to connect people to new adventures.
 - 🤔 I’m looking for help with landing my first role in the field.
