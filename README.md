@@ -10,10 +10,10 @@ Happy Hacking!
 
 - ⚡ I am a certified Full Stack Engineer!
 - 🔭 I’m currently working on finishing my portfolio for employers to see my work and continuing my education through EdX computer science courses with NYU. 
-- 🌱 I’m currently obatining a micro bachelors to add to my skil  list though NYU edX.
+- 🌱 I’m currently obatining a micro bachelors to add to my skill  list though NYU edX.
 - 👯 I’m looking to collaborate on new mobile or web applications to connect people to new adventures.
 - 🤔 I’m looking for help with landing my first role in the field.
-- 💬 Ask me about my passion and how I am working toward doing it everyday for the rest of my working career.
-- 📫 How to reach me: please visit my portfolio page from the top of this section and checkout the contact me page.
+- 💬 Ask me about my passion and how I am working toward doing it every day for the rest of my working career.
+- 📫 How to reach me: please visit my portfolio page from the top of this section and check out the contact me page.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Worked as a character performer at Disney World for 6 years, I was great frinds with someone very Goofy! Gawrsh...
+- ⚡ Fun fact: Worked as a character performer at Disney World for 6 years, I was great friends with someone very Goofy! Gawrsh...
