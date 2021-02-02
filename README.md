@@ -14,6 +14,6 @@ Happy Hacking!
 - 👯 I’m looking to collaborate on new mobile or web applications to connect people to new adventures.
 - 🤔 I’m looking for help with landing my first role in the field.
 - 💬 Ask me about my passion and how I am working toward doing it every day for the rest of my working career.
-- 📫 How to reach me: please visit my portfolio page from the top of this section and check out the contact me page.
+- 📫 How to reach me: please visit my portfolio page from the top of this section and check out the contact me page < ComingSoon />.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Worked as a character performer at Disney World for 6 years, I was great friends with someone very Goofy! Gawrsh...
